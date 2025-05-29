@@ -23,8 +23,7 @@ Sou entusiasta de desenvolvimento web e mobile, com foco em front-end e integra�
   *Instituto Federal Farroupilha – IFFar, Campus Alegrete (2017 - 2019)*
 
 - 🌐 **Bootcamp Full Stack Developer**  
-  *IGTI – Instituto de Gestão e Tecnologia da Informação (2020)*  
-  [Link para o curso](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/)
+  *IGTI – Instituto de Gestão e Tecnologia da Informação - Bootcamp (2020)*  
 
 - 🗣️ **Curso de Inglês Intermediário**  
   *SENAC Idiomas (2016 - 2019)*
@@ -42,7 +41,6 @@ Sou entusiasta de desenvolvimento web e mobile, com foco em front-end e integra�
 ---
 
 ### 💼 Experiência Profissional
-
 
 - 🖥️ **Analista de Suporte e Infraestrutura – CAAL (Cooperativa Agroindustrial Alegrete LTDA)**  
   *Desde maio de 2023*  
