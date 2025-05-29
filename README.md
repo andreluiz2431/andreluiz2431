@@ -14,6 +14,63 @@ Sou entusiasta de desenvolvimento web e mobile, com foco em front-end e integra�
 - ☁️ Serviços como **Firebase**, **Vercel**, **Railway** e **Docker**
 - 🎨 Design limpo com **TailwindCSS** e foco em **UX**
 
+### 📚 Formação Acadêmica & Certificações
+
+- 🎓 **Ciência da Computação** (em andamento)  
+  *Universidade Federal do Pampa – UNIPAMPA (2020 - atual)*
+
+- 💻 **Técnico em Informática Integrado ao Ensino Médio**  
+  *Instituto Federal Farroupilha – IFFar, Campus Alegrete (2017 - 2019)*
+
+- 🌐 **Bootcamp Full Stack Developer**  
+  *IGTI – Instituto de Gestão e Tecnologia da Informação (2020)*  
+  [Link para o curso](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/)
+
+- 🗣️ **Curso de Inglês Intermediário**  
+  *SENAC Idiomas (2016 - 2019)*
+
+---
+
+### 🎓 Experiência Acadêmica e Extracurricular
+
+- 🧑‍🏫 **Bolsista de Pesquisa e Ensino – IFFar**  
+  Desenvolvimento de aplicações web, jogos educativos/simuladores e apps Android para projetos acadêmicos.
+
+- 🌐 **Bolsista em Redes de Computadores – UNIPAMPA**  
+  Pesquisa e implementação de projetos de redes utilizando P4.
+
+---
+
+### 💼 Experiência Profissional
+
+
+- 🖥️ **Analista de Suporte e Infraestrutura – CAAL (Cooperativa Agroindustrial Alegrete LTDA)**  
+  *Desde maio de 2023*  
+  Atividades exercidas:
+  - Suporte e Instalação de sistemas operacionais e entrada em Domínio (AD) **Windows e Linux**
+  - Manutenção de hardware em estações de trabalho e servidores (processadores, memória, discos, placas-mãe, racks)
+  - Conhecimento em redes (conectividade, wi-fi, cabeamento, IPs, solução de problemas)
+  - Manuseio de aplicativos corporativos: **Microsoft Office**, navegadores, e-mail
+  - Administração de telefonia: **PABX, VoIP**, instalação e suporte
+  - Instalação e manutenção de sistemas **CFTV** (câmeras, DVRs, monitores)
+  - Solução de problemas em vídeo, gravação e qualidade de imagem
+  - Conhecimento em **TOTVS Protheus e ADVPL**
+  - Criação e manutenção de testes automatizados com **Python**
+  - Banco de dados **SQL (Oracle)** para análises e consultas
+  - Uso de plataformas de colaboração: **Jira, GitHub**
+  - Habilitação categoria **B**
+
+- 🧾 **Freelancer Administrativo**  
+  Atuação por 4 anos com foco em:
+  - Emissão de notas fiscais e boletos
+  - Gestão de estoque e pedidos
+  - Cadastro de clientes e suporte comercial
+  - Criação de materiais de marketing digital
+  - Atomação de processos administrativos (Micro Automações locais)
+
+- 🏢 **RGE – Estação Avançada de Alegrete**  
+  Trabalhei no setor de gestão de operações e apoio administrativo, onde desenvolvi habilidades organizacionais e operacionais.
+
 ---
 
 ## 🔧 Tecnologias & Ferramentas
