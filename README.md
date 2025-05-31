@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o André Luiz Montanha!
 
-🎯 Desenvolvedor apaixonado por tecnologia, sempre buscando criar soluções que unam performance, organização e boas práticas.  
+🎯 Desenvolvedor, sempre buscando criar soluções que unam performance, organização e boas práticas.  
 💼 Atualmente focado em projetos com **Angular**, **React**, **Astro**, **Firebase**, **Node.js**, **TypeScript** e **TailwindCSS**.
 
 ---
