@@ -63,6 +63,7 @@ Sou entusiasta de desenvolvimento web e mobile, com foco em front-end e integra�
 
 - 🖥️ **Analista de Suporte I - Aegea Corsan**
   *Desde julho de 2025*
+
   Atividades exercidas:
   - Manutenção da infraestrutura de TI de 23 unidades.
   - Controle de ativos tecnológicos: Gerenciamento do estoque de equipamentos, incluindo celulares, notebooks e workstations.
