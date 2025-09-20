@@ -61,8 +61,18 @@ Sou entusiasta de desenvolvimento web e mobile, com foco em front-end e integra�
 
 ### 💼 Experiência Profissional
 
+- 🖥️ **Analista de Suporte I - Aegea Corsan**
+  *Desde julho de 2025*
+  Atividades exercidas:
+  - Manutenção da infraestrutura de TI de 23 unidades.
+  - Controle de ativos tecnológicos: Gerenciamento do estoque de equipamentos, incluindo celulares, notebooks e workstations.
+  - Atendimento e resolução de chamados utilizando o ServiceNow.
+  - Monitoramento de redes: Monitoramento e análise de redes utilizando a plataforma Zabbix.
+  - Administração de acessos e licenças: Gerenciamento de contas de usuários, atribuição de grupos de acessos e alocação de licenças como Microsoft 365.
+  Ferramentas: MDM Urmobo, ITSM ServiceNow, Monitoramento de rede Zabbix, IAM Horacius, Microsoft Entra ID, Endpoint Central ManageEngine, ITAM Alow.
+
 - 🖥️ **Analista de Suporte e Infraestrutura – CAAL (Cooperativa Agroindustrial Alegrete LTDA)**  
-  *Desde maio de 2023*  
+  *Desde maio de 2023 a julho de 2025*  
   Atividades exercidas:
   - Suporte e Instalação de sistemas operacionais e entrada em Domínio (AD) **Windows e Linux**
   - Manutenção de hardware em estações de trabalho e servidores (processadores, memória, discos, placas-mãe, racks)
