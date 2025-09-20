@@ -69,7 +69,7 @@ Sou entusiasta de desenvolvimento web e mobile, com foco em front-end e integra�
   - Atendimento e resolução de chamados utilizando o ServiceNow.
   - Monitoramento de redes: Monitoramento e análise de redes utilizando a plataforma Zabbix.
   - Administração de acessos e licenças: Gerenciamento de contas de usuários, atribuição de grupos de acessos e alocação de licenças como Microsoft 365.
-  Ferramentas: MDM Urmobo, ITSM ServiceNow, Monitoramento de rede Zabbix, IAM Horacius, Microsoft Entra ID, Endpoint Central ManageEngine, ITAM Alow.
+  Ferramentas: MDM Urmobo, ITSM ServiceNow, Monitoramento de rede Zabbix, IAM Horacius, Microsoft Entra ID, Endpoint Central ManageEngine, ITAM Alow, NDD Print.
 
 - 🖥️ **Analista de Suporte e Infraestrutura – CAAL (Cooperativa Agroindustrial Alegrete LTDA)**  
   *Desde maio de 2023 a julho de 2025*  
