@@ -18,7 +18,7 @@
 ## 📬 Como me encontrar
 
 - 📧 Email: [alm28062001@gmail.com](mailto:alm28062001@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/andré-luiz-montanha-de-abreu-ab9a42162)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andremontanhaabreu)
 - 🌐 [Portfólio (em construção)](https://github.com/andreluiz2431)
 - 📱 Whatsapp: (55) 9 9659-6043
 
